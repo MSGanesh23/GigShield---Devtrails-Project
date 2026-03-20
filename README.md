@@ -61,48 +61,6 @@ Disruption detected  →  Zone verified  →  Payout sent  →  Worker protected
 
 ---
 
-## 👥 Real Worker Stories
-
-<table>
-<tr>
-<td width="33%">
-
-**🌧️ Kamla — Zepto, Bengaluru**
-
-Heavy rain shuts her zone at 4 PM. She loses 3 hours — ₹480 gone.
-
-GigShield detects the rainfall, confirms her zone, and sends ₹480 to her UPI before she gets home.
-
-*She did nothing.*
-
-</td>
-<td width="33%">
-
-**😷 Ravi — Blinkit, Delhi**
-
-AQI hits 401. GRAP Stage IV restrictions halt all outdoor delivery for 5 hours — ₹600 lost.
-
-GigShield picks up the AQI alert, matches Ravi's zone, and triggers the payout automatically.
-
-*Zero friction.*
-
-</td>
-<td width="33%">
-
-**🚨 Priya — Instamart, Pune**
-
-Section 144 curfew in her zone. 4 hours of lost work — ₹400.
-
-GigShield's news monitoring detects the curfew, cross-checks Priya's zone, and pays her out.
-
-*Instant safety net.*
-
-</td>
-</tr>
-</table>
-
----
-
 ## ⚙️ How It Works
 
 ```
